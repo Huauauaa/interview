@@ -69,6 +69,18 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            type: 'doc',
+            docId: 'algo/index',
+            position: 'left',
+            label: '算法',
+          },
+          {
+            type: 'doc',
+            docId: 'question/index',
+            position: 'left',
+            label: '面试题',
+          },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
